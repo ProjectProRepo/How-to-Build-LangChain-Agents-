@@ -1,4 +1,4 @@
-# AI-Powered Financial Report Analyzer
+# Financial Report Analyzer AI Agent using LangChain
 
 ## Introduction
 
@@ -35,8 +35,11 @@ Extracting insights from financial reports is crucial for informed decision-maki
 3. Run the script to analyze and extract key insights.
 4. Ask the AI agent for financial summaries, trends, and analysis.
 
+## Data Source
+The file has been downloaded using this link: [Meta Q1 2024 Financial Report](https://s21.q4cdn.com/399680738/files/doc_financials/2024/q1/Meta-03-31-2024-Exhibit-99-1_FINAL.pdf).
+
 ## Future Enhancements
 
-- Expand analysis capabilities beyond financial reports
-- Integrate with real-time financial data sources
-- Improve natural language understanding for better insights
+- Expand analysis capabilities beyond financial reports.
+- Integrate with real-time financial data sources.
+- Improve natural language understanding for better insights.
