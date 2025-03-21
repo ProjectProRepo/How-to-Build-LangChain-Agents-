@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Extracting insights from financial reports is crucial for informed decision-making. This project demonstrates how to build an AI-powered financial analyst that extracts text from a PDF, processes it using a conversational agent, and generates financial summaries, trends, and insights.
+Extracting insights from financial reports is crucial for informed decision-making. This project demonstrates how to build an AI-powered financial analyst that extracts text from a PDF, processes it using a conversational agent, and generates financial summaries, trends, and insights. To understand the code in this repository step-by-step, read the article [How to Build LangChain Agents by ProjectPro](https://www.projectpro.io/article/how-to-build-langchain-agents/1099)
 
 ## Features
 
